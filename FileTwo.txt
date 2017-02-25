@@ -1,1 +1,2 @@
 "This is file no 2" 
+"File 2 is modified" 
